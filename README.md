@@ -34,7 +34,8 @@ This project is a high-fidelity UI design created for a food delivery mobile app
 - Grey Text: #777777
 
 ## Figma Design Link
-Paste your Figma link here
+https://www.figma.com/design/S2gnPdDaTWHG29OwjcWgzj/CodeAlpha_Task2_HighFidelityUI?node-id=0-1&t=EwI9Ytu2MszuUnAb-1
+
 
 ## Screenshots
 
